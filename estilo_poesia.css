@@ -1,0 +1,22 @@
+body {
+	background-image: url(blog5.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	background-size: auto;
+
+}
+
+p{ 
+color: blue; 
+font-family: "Arial";  
+font-size: 12pt; 
+ 
+} 
+h2{
+text-align: center;
+color: black;	
+}
+h3{
+text-align: center;	
+color: black;
+}
